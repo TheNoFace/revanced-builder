@@ -1,17 +1,17 @@
 @font-face {
-  font-family: "Inziu Iosevka SC Regular";
-  src: url("https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/inziu-iosevka-SC/Inziu-Iosevka-SC-Regular.ttf?raw=true") format("truetype");
+  font-family: "Source Han Sans HWK Regular";
+  src: url("https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/source-han-sans-HWK/SourceHanSansHWK-Regular.otf?raw=true") format("opentype");
   unicode-range: U+4E00-9FFF; /* CJK characters codepoint range */
 }
 
 @font-face {
-  font-family: "Inziu Iosevka SC Bold";
-  src: url("https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/inziu-iosevka-SC/Inziu-Iosevka-SC-Bold.ttf?raw=true") format("truetype");
+  font-family: "Source Han Sans HWK Bold";
+  src: url("https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/source-han-sans-HWK/SourceHanSansHWK-Bold.otf?raw=true") format("opentype");
   unicode-range: U+4E00-9FFF; /* CJK characters codepoint range */
 }
 
 span.log .log-line {
-  font-family: 'Inziu Iosevka SC Regular', 'Fira Code', monospace;
+  font-family: 'Source Han Sans HWK Regular', 'Fira Code', monospace;
   font-weight: 300;
   font-size: 0.8em;
   line-height: 0.8em;
@@ -20,7 +20,7 @@ span.log .log-line {
 }
 
 span.log .log-line strong {
-  font-family: 'Inziu Iosevka SC Bold', 'Fira Code', monospace;
+  font-family: 'Source Han Sans HWK Bold', 'Fira Code', monospace;
   font-weight: bold;
 }
 
